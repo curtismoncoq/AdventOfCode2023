@@ -1,6 +1,9 @@
-# AdventOfCode2023
-Here is my code for the 2023 Advent of Code
+# Advent of Code 2023: A Coding Journey
 
-I will use my libft.a static library and I won't be following the "Norme 42" format.
+Welcome to my repository for the 2023 Advent of Code challenge. 
 
-Enjoy!
+In this endeavor, I'll be utilizing my reliable `libft.a` static library. Even if I find the "Norme 42" format useful to learn, I've chosen to not adhere to it for this project due to the additional workload it would entail.
+
+I hope you find the journey through this code as enlightening as I did while crafting it. Enjoy the exploration!
+
+Happy Coding!

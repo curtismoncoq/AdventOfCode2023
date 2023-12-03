@@ -6,7 +6,7 @@
 /*   By: cumoncoq <cumoncoq@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/01 20:41:49 by cumoncoq          #+#    #+#             */
-/*   Updated: 2023/12/02 14:51:40 by cumoncoq         ###   ########.fr       */
+/*   Updated: 2023/12/03 14:02:17 by cumoncoq         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -100,4 +100,5 @@ int main(int ac, char **av)
 		line = get_next_line(fd);
 	}
 	ft_printf("total_file = %d\n", total_file);
+	return (0);
 }
